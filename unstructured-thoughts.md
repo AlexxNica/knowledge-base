@@ -12,3 +12,13 @@ A place for my notes, thoughts, and general unstructured information.
 - https://github.com/cli/cli/blob/trunk/docs/working-with-us.md
 - https://docs.github.com/en/github-cli/github-cli/creating-github-cli-extensions
 - https://docs.github.com/en/github-cli/github-cli/using-github-cli-extensions
+
+---
+
+## Experience Design & Management
+
+- Open Source Experience / Open Source Software Experience
+- Contributor Experience
+- Maintainer Experience
+- Developer Experience
+- User Experience
